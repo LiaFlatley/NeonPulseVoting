@@ -126,13 +126,12 @@ const types = {
 
 ### File Structure
 ```
-D:\web3\dapp8\frontend\
 ├── index.html          # Main UI interface
 ├── app.js             # Core JavaScript logic
 ├── server.js          # Node.js static server
 ├── package.json       # Dependencies and scripts
 ├── favicon.ico        # Browser icon
-└── DAPP_GUIDE.md      # This documentation
+└── README.md      # This documentation
 ```
 
 ### Key Functions
