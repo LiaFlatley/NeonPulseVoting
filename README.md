@@ -13,7 +13,6 @@ This is a **Fully Homomorphic Encryption (FHE) Voting Decentralized Application*
 
 ### Running the DApp
 ```bash
-cd D:\web3\dapp8\frontend
 npm start
 ```
 The application will start on `http://localhost:4002`
