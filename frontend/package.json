@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "dev": "node server.js",
+    "python": "python -m http.server 3001"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0"
+  }
+}
